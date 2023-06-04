@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why Effectuall?
+title: Why Effectuall
 subtitle:Effect of Visual Learning - Effectual Learning
 ---
 
