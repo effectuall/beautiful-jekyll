@@ -54,18 +54,18 @@ social-network-links:
   facebook: sajithaep
   github: "effectuall
   twitter:sajithaep
-# patreon: DeanAttali
+# patreon: yourname
   youtube: c/Effectual Learning
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: yourname
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
+#  stackoverflow: "3943160/yourname"
+#  snapchat: yourname
+#  instagram: yourname
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: yourname
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -94,7 +94,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "effectuall.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
