@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Why Effectuall
-subtitle:Effect of Visual Learning - Effectual Learning
+title: About Me
+subtitle:Effect of Visual Learning
 ---
 
 Effectuall provides an effective and powerful 3D learning platform for Interactive Physics Simulations. It introduces a teaching methodology that uses technology as access points for guiding students in science.
