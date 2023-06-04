@@ -10,10 +10,13 @@
 ############################
 
 # Name of website
-title: My Website
+title: Effectual Learning
+
+# Short description of your site
+description: Interactive Physics 3D Simulations
 
 # Your name to show in the footer
-author: Some Person
+author: E.P. Sajitha
 
 ###############################################
 # --- List of links in the navigation bar --- #
