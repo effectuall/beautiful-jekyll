@@ -12,9 +12,6 @@
 # Name of website
 title: Effectual Learning
 
-# Short description of your site
-description: Interactive Physics 3D Simulations
-
 # Your name to show in the footer
 author: E.P. Sajitha
 
@@ -52,13 +49,13 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "effectuallearning@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: sajithaep
+  github: "effectuall
+  twitter:sajithaep
+# patreon: DeanAttali
+  youtube: c/Effectual Learning
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
